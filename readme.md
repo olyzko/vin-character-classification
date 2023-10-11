@@ -1,7 +1,7 @@
 # VIN Character Classification
 
 ## About the project
-This project is a test task for CHI Machine Learning Internship 2023. The goal of this project is to make a convolutional neural network (CNN) model for classifying grayscale images with characters used in VIN codes. The characters are digits and most of capital latin letters (except from I, O and Q, which are not used in VIN codes due to their similarity with digits)
+The goal of this project is to make a convolutional neural network (CNN) model for classifying grayscale images with characters used in VIN codes. The characters are digits and most of capital latin letters (except from I, O and Q, which are not used in VIN codes due to their similarity with digits)
 
 The project consists of the following files:
 
